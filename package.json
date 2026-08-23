@@ -1,0 +1,16 @@
+{
+  "name": "advanced-mern-project",
+  "private": true,
+  "dependencies": {
+    "express": "^4.21.2",
+    "mongoose": "^8.9.2",
+    "passport": "^0.5.3",
+    "passport-google-oauth20": "^2.0.0",
+    "passport-local": "^1.0.0",
+    "cookie-session": "^2.1.0",
+    "cors": "^2.8.5",
+    "bcrypt": "^5.1.1",
+    "uuid": "^11.0.0",
+    "zod": "^3.24.1"
+  }
+}
